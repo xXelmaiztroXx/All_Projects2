@@ -1,0 +1,57 @@
+id,game_id,name,storyline,first_release_date,follow_count,hype_count,critic_rating_value,critic_rating_count,user_rating_value,user_rating_count
+2310,3721,Kirby & the Amazing Mirror,NULL,2004-04-15 00:00:00.000,15,NULL,NULL,NULL,84.8264,59
+2508,5440,Kirby Triple Deluxe,NULL,2014-01-11 00:00:00.000,14,NULL,78.5455,11,85.0000,39
+2636,28126,Team Kirby Clash Deluxe,"No matter what, each mighty role offers up a unique way to play. Puff up your power by crafting new weapons and spending materials at the shop to receive even more weapons, not to mention armor and items. Beyond the main game, there's also a ton of quests and a brand-new challenge system. Plus, tapping compatible amiibo figures/accessories will earn you extra fragments to help craft new gear! Are you ready? For Kirby, the answer is always fight and flight.",2017-04-12 00:00:00.000,3,NULL,47.0000,1,NULL,NULL
+2803,18221,Kirby: Planet Robobot,NULL,2016-04-28 00:00:00.000,10,NULL,82.2667,16,87.7104,25
+29114,42257,Kirby no Omochabako: Baseball,NULL,1995-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+32906,113211,Kirby's Super Star Stacker,NULL,1998-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+38454,176042,Kid Kirby,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+42154,109460,Kirby's Extra Epic Yarn,NULL,2019-03-08 00:00:00.000,1,1,80.4286,7,70.0155,5
+42379,95893,kirby original adventure classic,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+48383,3725,Kirby's Return to Dream Land,NULL,2011-10-24 00:00:00.000,12,NULL,86.5000,4,89.8201,34
+55522,3724,Kirby Mass Attack,NULL,2011-08-04 00:00:00.000,4,NULL,85.5000,5,71.4927,17
+65019,3655,Kirby's Star Stacker,NULL,1997-03-18 00:00:00.000,1,NULL,NULL,NULL,70.0000,2
+65324,3718,Kirby's Dream Land 2,NULL,1995-03-21 00:00:00.000,9,NULL,NULL,NULL,80.0345,35
+67836,3729,Kirby Tilt 'n' Tumble,NULL,2000-08-23 00:00:00.000,NULL,NULL,NULL,NULL,72.4514,5
+68910,3717,Kirby's Adventure,NULL,1993-03-23 00:00:00.000,30,NULL,60.0000,1,80.9254,120
+69283,3726,Kirby: Nightmare in Dream Land,NULL,2002-10-25 00:00:00.000,10,NULL,70.0000,1,83.3817,61
+69707,7338,Kirby and the Rainbow Curse,NULL,2015-01-22 00:00:00.000,5,2,73.1250,9,78.0153,16
+69919,84259,Kirby Slide,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+72141,3722,Kirby: Canvas Curse,NULL,2005-03-24 00:00:00.000,6,NULL,85.0000,2,71.7231,34
+74602,3720,Kirby's Dream Land 3,NULL,1997-11-27 00:00:00.000,9,NULL,NULL,NULL,81.6219,38
+77638,134458,Kirby no Omochabako: Kachiwari Megaton Punch wo Tameshi Ban,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+81135,145720,Game Boy Advance Video: Kirby: Right Back at Ya!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+92786,134454,Kirby no Omochabako: Cannonball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92892,134453,Kirby no Omochabako: Guru Guru Ball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92945,134457,Kirby no Omochabako: Ball Rally,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+95926,134452,Kirby no Omochabako: Pinball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+95939,134456,Kirby no Omochabako: Pachinko,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+96068,42217,Kirby no Omochabako: Hoshi Kuzushi,NULL,1996-03-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+105592,2647,Kirby Super Star Ultra,NULL,2008-09-22 00:00:00.000,17,NULL,77.0000,6,81.6639,55
+105606,3719,Kirby Super Star,NULL,1996-03-21 00:00:00.000,22,NULL,80.0000,1,86.9544,79
+129095,62490,Kirby no Omochabako,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+134584,134455,Kirby no Omochabako: Arrange Ball,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136212,145015,Kirby The Dream Battle,NULL,2019-08-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143279,45163,Kirby Fighters Deluxe,NULL,2014-08-29 00:00:00.000,1,NULL,NULL,NULL,73.0000,2
+143455,84617,3D Classics: Kirby's Adventure,NULL,2011-11-17 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,2
+143598,3715,Kirby's Pinball Land,NULL,1993-11-27 00:00:00.000,3,NULL,NULL,NULL,70.6679,14
+145671,122229,Super Kirby Clash,NULL,2019-09-04 00:00:00.000,1,NULL,NULL,NULL,76.0000,2
+147609,152418,Kirby: Invaders from the Dark,"Kirby's nap is cut short when a massive portal appears in the sky. Two shadowy figures, named Pandora and Molotov, destroy the Staff of Cosmos, the only thing standing in their way. It's up to Kirby to gather the six pieces to recreate teh Staff and defeat Pandora, Molotov and their mysterious leader Metuo...",2010-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+150054,185882,Kirby Tilt 'n' Tumble 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+154158,134459,Kirby no Omochabako: Setsuna no Mikiri wo Tameshi Ban,NULL,1996-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+156206,66788,Kirby Battle Royale,NULL,2017-11-03 00:00:00.000,1,NULL,58.3333,4,60.0000,1
+157419,28127,Kirby's Blowout Blast,NULL,2017-07-04 00:00:00.000,1,NULL,58.6667,3,76.0000,3
+157855,139059,Kirby Fighters 2,NULL,2020-09-23 00:00:00.000,1,NULL,65.0000,3,NULL,NULL
+159211,176051,Kirby's Air Ride,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+161423,174592,Kirby's Dream Land Advance,NULL,2018-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166101,37137,Kirby Star Allies,NULL,2018-03-16 00:00:00.000,23,5,74.0833,13,71.3075,51
+167050,185888,Kirby Adventure,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+168672,3656,Kirby's Dream Course,NULL,1994-09-21 00:00:00.000,6,NULL,70.0000,1,79.3650,29
+168685,3728,Kirby's Block Ball,NULL,1995-12-14 00:00:00.000,NULL,NULL,NULL,NULL,69.9988,7
+168707,3727,Kirby's Avalanche,NULL,1995-02-01 00:00:00.000,3,NULL,NULL,NULL,62.0211,11
+168721,2713,Kirby 64: The Crystal Shards,"On the planet of Ripple Star, lives a group of kind and peaceful fairies. The planet itself is protected from danger by the power of the great Crystal, which watches over Ripple Star. This power, however, draws the attention of Dark Matter, who wishes to use the great Crystal for its own evil agenda. Its gigantic mass attacks and searches for the Crystal, blackening the sky and sending the fairies into panic. In response to the threat Dark Matter presents, the queen of Ripple Star orders a fairy named Ribbon to take the Crystal to a safe place. Ribbon tries to fly away with the Crystal in tow, but is stopped by three orbs sent by Dark Matter. The Crystal shatters into 74 shards, scattered throughout several planets, and Ribbon crashes onto Planet Popstar. Kirby finds one shard and gives it to Ribbon, whereupon the two set out to find the others. Once Kirby and his friends collect every Crystal Shard and defeat Miracle Matter, Dark Matter flees Ripple Star and explodes. The victory is cut short, however, as the Crystal detects a powerful presence of Dark Matter energy within the Fairy Queen and expels it from her, manifesting over the planet to create Dark Star. Kirby and his friends infiltrate Dark Star, and King Dedede launches them up to challenge 02. Kirby and Ribbon, armed with their Shard Gun, destroyed 02 and the Dark Star.",2000-06-26 00:00:00.000,21,NULL,NULL,NULL,73.5769,69
+168733,84168,Kirby's Dream Collection Special Edition,NULL,2012-07-19 00:00:00.000,2,NULL,NULL,NULL,89.0000,4
+168737,2184,Kirby's Epic Yarn,NULL,2010-10-14 00:00:00.000,13,NULL,84.6000,8,68.0506,53
+168816,2777,Kirby Air Ride,NULL,2003-08-11 00:00:00.000,12,NULL,NULL,NULL,76.5766,52
+170516,1063,Kirby's Dream Land,NULL,1992-04-27 00:00:00.000,19,NULL,NULL,NULL,79.1064,102
+171430,3723,Kirby: Squeak Squad,NULL,2006-11-02 00:00:00.000,6,NULL,70.0000,1,78.8804,41
